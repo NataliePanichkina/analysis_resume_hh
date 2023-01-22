@@ -29,7 +29,7 @@
 **Данный проект** направлен на тренировку навыков применения различных методов предобработки данных на каждом из этапов Feature Engineering на примере датасета резюме с сайта по поиску работников и работадателей HeadHunter.
 
 **О структуре проекта:**
-* Project.ipynb - jupyter-ноутбук, содержащий основной код проекта, в котором происходят этапы Feature Engineering.
+* project.ipynb - jupyter-ноутбук, содержащий основной код проекта, в котором происходят этапы Feature Engineering.
 
 ## Описание данных
 В нашем распоряжении база резюме, выгруженная с сайта поиска вакансий [hh.ru](https://nn.hh.ru/?ysclid=lcqtddl6ky405210179).
@@ -51,7 +51,7 @@ git clone https://github.com/NataliePanichkina/analysis_resume_hh.git
 ```
 
 ## Использование
-Вся информация о работе представлена в jupyter-ноутбуке Project-1_Feature_Engineering_HeadHunter.ipynb.
+Вся информация о работе представлена в jupyter-ноутбуке project.ipynb.
 
 ## Авторы
 
